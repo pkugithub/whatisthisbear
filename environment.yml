@@ -1,0 +1,12 @@
+name: jds-own-bear-detection-environment
+
+channels:
+- pytorch
+- fastchan
+- defaults
+
+dependencies:
+- jupyterlab
+- fastai
+- voila
+- ipywidgets=7.5
